@@ -1,0 +1,25 @@
+Reading pref.tcl
+
+# 2023.4_4
+
+# do wally.do rv32gc dut_dut.elf testbench --args " +ElfFile=/home/mabdullab/cvw/addins/cvw-arch-verif/riscof_work/src/div-01.S/dut/dut.elf" --params " " --define "+define+FCOV_VERBOSE +define+FCOV +define+USE_IMPERAS_DV" --fcov --lockstep
+# 1
+# rv32gc
+# dut_dut.elf
+# testbench
+# wkdir/rv32gc_dut_dut.elf
+# /home/mabdullab/cvw
+# /home/mabdullab/cvw/config
+# /home/mabdullab/cvw/src
+# /home/mabdullab/cvw/testbench
+# /home/mabdullab/cvw/addins/cvw-arch-verif/fcov
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".
+# ** Warning: (vdel-6) -- Waiting for lock by "mabdullab@chips.eng.hmc.edu, pid = 1913808". Lockfile is "/home/mabdullab/cvw/sim/questa/wkdir/rv32gc_dut_dut.elf/_lock".

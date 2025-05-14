@@ -1,0 +1,13 @@
+# testlist generated on 2025-05-14 14:38 GMT
+/home/mabdullab/cvw/addins/riscv-arch-test/riscv-test-suite/rv32i_m/I_test/src/add-01.S:
+  commit_id: '-'
+  work_dir: /home/mabdullab/cvw/addins/cvw-arch-verif/riscof_work/src/add-01.S
+  macros:
+  - TEST_CASE_1=True
+  - XLEN=32
+  isa: RV32I
+  mac: []
+  coverage_labels:
+  - add
+  test_path: 
+    /home/mabdullab/cvw/addins/riscv-arch-test/riscv-test-suite/rv32i_m/I_test/src/add-01.S

@@ -1,0 +1,16 @@
+# database generated on 2025-05-14 14:38 GMT
+!!omap
+- /home/mabdullab/cvw/addins/riscv-arch-test/riscv-test-suite/rv32i_m/I_test/src/add-01.S:
+    commit_id: '-'
+    isa:
+    - RV32I
+    parts: !!omap
+    - '0':
+        check:
+        - check ISA:=regex(.*32.*)
+        - check ISA:=regex(.*I.*)
+        define:
+        - def TEST_CASE_1=True
+        mac: []
+        coverage_labels:
+        - add
